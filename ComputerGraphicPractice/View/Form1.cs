@@ -42,6 +42,10 @@ namespace ComputerGraphicPractice
 
         private void RectangleButton_Click(object sender, EventArgs e) => CreateNewObject(new Rectangle());
 
+        private void PolygonButton_Click(object sender, EventArgs e) => CreateNewObject(new Polygon());
+        
+        private void RegularPolygonButton_Click(object sender, EventArgs e) => CreateNewObject(new RegularPolygon());
+
         private void UpdateTreeView()
         {
             treeView1.BeginUpdate();

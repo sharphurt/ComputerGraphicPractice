@@ -54,7 +54,10 @@
         <Compile Include="VectorObject\Ellipse.cs" />
         <Compile Include="VectorObject\IVectorObject.cs" />
         <Compile Include="VectorObject\Line.cs" />
+        <Compile Include="VectorObject\Point.cs" />
+        <Compile Include="VectorObject\Polygon.cs" />
         <Compile Include="VectorObject\Rectangle.cs" />
+        <Compile Include="VectorObject\RegularPolygon.cs" />
         <Compile Include="View\Form1.cs">
           <SubType>Form</SubType>
         </Compile>

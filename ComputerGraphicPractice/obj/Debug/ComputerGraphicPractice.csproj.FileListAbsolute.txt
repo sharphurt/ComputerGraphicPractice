@@ -1,0 +1,10 @@
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\bin\Debug\ComputerGraphicPractice.exe.config
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\bin\Debug\ComputerGraphicPractice.exe
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\bin\Debug\ComputerGraphicPractice.pdb
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.Properties.Resources.resources
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.csproj.GenerateResource.cache
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.exe
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.pdb
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.Form1.resources

@@ -8,3 +8,4 @@ C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice
 C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.exe
 C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.pdb
 C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.Form1.resources
+C:\Users\sharphurt\RiderProjects\ComputerGraphicPractice\ComputerGraphicPractice\obj\Debug\ComputerGraphicPractice.ObjectParametersForm.resources
